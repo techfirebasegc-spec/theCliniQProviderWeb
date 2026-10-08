@@ -1,2 +1,2 @@
-import { ProviderPage } from "../../../src/provider-app";
-export default function Page(){return <ProviderPage page="appointments"/>;}
+import { ClinicianAppointments } from "../../../src/clinician-appointments";
+export default function Page(){return <ClinicianAppointments/>;}

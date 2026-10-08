@@ -14,6 +14,7 @@ import {
 test("converts decimal rupees to exact API minor units", () => {
   assert.equal(rupeesToMinor("500"), "50000");
   assert.equal(rupeesToMinor("500.5"), "50050");
+  assert.equal(rupeesToMinor("500.50"), "50050");
   assert.equal(rupeesToMinor("2,000.50"), "200050");
   assert.equal(rupeesToMinor("500.500"), null);
   assert.equal(rupeesToMinor("1e3"), null);

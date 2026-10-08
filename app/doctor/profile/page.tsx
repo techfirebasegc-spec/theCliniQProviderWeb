@@ -1,2 +1,2 @@
-import { DoctorVerificationProfile } from "../../../src/provider-app";
-export default function Page(){return <DoctorVerificationProfile/>;}
+import { DoctorProfessionalProfile } from "../../../src/professional-profiles";
+export default function Page(){return <DoctorProfessionalProfile/>;}
