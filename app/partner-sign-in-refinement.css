@@ -1,0 +1,4 @@
+.partner-google-mark{background:url("/brand/google-mark.svg") center/contain no-repeat;color:transparent!important}
+@media(max-width:960px){.partner-sign-in{display:block}.partner-brand-panel{background-position:65% center;min-height:0;padding:38px 42px 30px}.partner-welcome{margin-top:42px}.partner-brand-panel h1{font-size:3rem}.partner-feature-list{grid-template-columns:1fr 1fr;gap:10px;max-width:650px}.partner-brand-footer{margin-top:28px}.partner-auth-panel{padding:34px}.partner-auth-card{max-width:500px}}
+@media(max-width:460px){.partner-feature-list{grid-template-columns:1fr}.partner-brand-panel{padding:25px 18px 21px}.partner-auth-panel{padding:0 14px 22px}}
+.partner-input-wrap input:-webkit-autofill,.partner-input-wrap input:-webkit-autofill:hover,.partner-input-wrap input:-webkit-autofill:focus{box-shadow:0 0 0 1000px #fff inset!important;-webkit-text-fill-color:#172b59!important;caret-color:#172b59}

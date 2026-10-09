@@ -1,4 +1,6 @@
 import "./styles.css";
+import "./partner-sign-in.css";
+import "./partner-sign-in-refinement.css";
 import "./provider-workspace.css";
 import "./provider-polish.css";
 import "./presentation-customizer.css";
